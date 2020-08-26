@@ -1,0 +1,200 @@
+/numPatientDischarges Weismann-Netter-Syndrome 25-06-2000 01-07-2017
+/topk-AgeRanges 2 Sweden Weismann-Netter-Syndrome 20-11-2012 22-07-2016
+/numPatientDischarges Marburg-virus 06-09-2015 08-05-2017
+/topk-AgeRanges 1 USSR Alopecia 20-11-2013 17-05-2015
+/diseaseFrequency Angioedema 24-11-2000 04-02-2011 China
+/diseaseFrequency Alopecia 24-03-2006 08-10-2006 Australia
+/numPatientAdmissions Weismann-Netter-Syndrome 18-01-2014 30-01-2014
+/searchPatientRecord 491
+/searchPatientRecord 3232
+/numPatientDischarges Laryngomalacia 27-07-2000 23-08-2015 Bangladesh
+/searchPatientRecord 4633
+/searchPatientRecord 6943
+/topk-AgeRanges 5 China Beeturia 02-10-2003 05-09-2004
+/numPatientAdmissions Marburg-virus 28-01-2010 17-08-2015
+/numPatientAdmissions H5N1 26-09-2013 08-08-2017 Bangladesh
+/numPatientDischarges H1N1 12-07-2002 29-09-2008 China
+/topk-AgeRanges 4 China Angioedema 14-09-2000 08-04-2005
+/numPatientDischarges Syngnathia 04-08-2013 24-02-2016
+/searchPatientRecord 1800
+/diseaseFrequency H1N1 09-08-2011 30-10-2019 USA
+/topk-AgeRanges 1 Italy Beeturia 28-09-2008 21-10-2017
+/numPatientAdmissions Ebola 20-01-2015 23-06-2018 Italy
+/diseaseFrequency H1N1 17-11-2012 05-07-2013 USSR
+/searchPatientRecord 1106
+/numPatientDischarges Marburg-virus 21-04-2018 07-02-2019
+/searchPatientRecord 2300
+/topk-AgeRanges 4 Greece Syngnathia 22-10-2011 20-04-2019
+/diseaseFrequency H1N1 05-07-2001 15-12-2019
+/topk-AgeRanges 2 Italy H1N1 03-01-2002 14-08-2014
+/diseaseFrequency Alopecia 13-12-2008 31-12-2012
+/searchPatientRecord 3740
+/numPatientDischarges Ebola 26-02-2016 18-08-2016
+/numPatientDischarges Marburg-virus 03-03-2005 26-01-2015 Greece
+/numPatientDischarges Ebola 06-04-2012 22-04-2013
+/searchPatientRecord 14
+/numPatientAdmissions Beeturia 03-11-2017 23-11-2017
+/diseaseFrequency Syngnathia 06-04-2017 24-09-2017 Bangladesh
+/numPatientAdmissions Beeturia 21-09-2018 24-09-2018
+/numPatientDischarges Marburg-virus 24-07-2002 26-03-2008 Australia
+/topk-AgeRanges 2 Australia Marburg-virus 08-07-2001 28-05-2002
+/diseaseFrequency Weismann-Netter-Syndrome 01-05-2017 17-05-2019 Congo
+/numPatientAdmissions H1N1 03-11-2017 04-11-2018 Bangladesh
+/diseaseFrequency H1N1 20-08-2010 12-03-2014
+/diseaseFrequency HIV 06-12-2018 30-03-2019
+/numPatientAdmissions Syngnathia 20-10-2001 29-11-2006
+/topk-AgeRanges 3 Bangladesh Hantavirus 13-06-2010 05-11-2016
+/topk-AgeRanges 5 Spain Marburg-virus 27-09-2000 19-02-2013
+/topk-AgeRanges 2 Spain H1N1 01-10-2009 26-12-2014
+/topk-AgeRanges 2 China H5N1 02-06-2000 02-11-2008
+/diseaseFrequency Laryngomalacia 03-05-2003 27-09-2014 Sweden
+/topk-AgeRanges 3 Greece Laryngomalacia 19-08-2008 06-05-2017
+/numPatientDischarges Laryngomalacia 16-01-2006 21-05-2018
+/diseaseFrequency Alopecia 23-02-2014 07-04-2015
+/topk-AgeRanges 1 Congo Marburg-virus 10-05-2007 05-08-2014
+/topk-AgeRanges 2 Congo Angioedema 14-04-2010 23-10-2014
+/searchPatientRecord 2812
+/numPatientDischarges Laryngomalacia 24-01-2006 15-03-2013 USA
+/diseaseFrequency H5N1 24-04-2017 20-09-2018
+/topk-AgeRanges 1 China H1N1 31-03-2017 23-08-2018
+/diseaseFrequency H1N1 08-04-2000 06-07-2015 USA
+/searchPatientRecord 1945
+/numPatientDischarges Syngnathia 10-11-2004 02-09-2010
+/diseaseFrequency Angioedema 09-11-2000 10-03-2009 China
+/numPatientAdmissions H5N1 12-09-2005 20-01-2007 USA
+/topk-AgeRanges 4 Sweden Alopecia 20-04-2018 14-05-2018
+/searchPatientRecord 4727
+/numPatientAdmissions Syngnathia 15-05-2003 23-04-2015 Sweden
+/numPatientDischarges Laryngomalacia 12-06-2004 19-08-2006 Congo
+/diseaseFrequency H1N1 05-04-2003 30-05-2008 Greece
+/searchPatientRecord 1352
+/numPatientAdmissions Alopecia 03-10-2015 15-07-2017
+/topk-AgeRanges 3 Sweden Laryngomalacia 08-03-2000 29-06-2003
+/numPatientDischarges Syngnathia 21-04-2000 16-08-2018 Congo
+/numPatientDischarges Angioedema 25-05-2000 14-10-2013
+/numPatientDischarges Syngnathia 27-06-2012 18-01-2019 Greece
+/diseaseFrequency Weismann-Netter-Syndrome 18-04-2011 08-05-2016 Spain
+/topk-AgeRanges 2 Sweden H1N1 10-08-2006 22-05-2016
+/numPatientDischarges Hantavirus 02-12-2006 03-07-2017
+/numPatientDischarges H1N1 05-11-2009 28-04-2017
+/numPatientDischarges H5N1 08-10-2019 01-11-2019
+/searchPatientRecord 2676
+/searchPatientRecord 2967
+/topk-AgeRanges 1 Bangladesh Syngnathia 25-12-2007 05-06-2012
+/searchPatientRecord 1988
+/searchPatientRecord 4166
+/numPatientDischarges Ebola 25-08-2011 14-05-2012 Spain
+/searchPatientRecord 77
+/topk-AgeRanges 3 Sweden Weismann-Netter-Syndrome 18-09-2010 08-10-2015
+/diseaseFrequency Marburg-virus 01-07-2010 30-01-2015 Congo
+/topk-AgeRanges 4 Italy HIV 09-09-2001 13-03-2003
+/searchPatientRecord 2984
+/diseaseFrequency Laryngomalacia 27-07-2019 18-08-2019 Australia
+/searchPatientRecord 4611
+/topk-AgeRanges 2 Sweden Hantavirus 18-02-2013 20-03-2019
+/diseaseFrequency Ebola 26-09-2016 01-01-2018
+/diseaseFrequency HIV 10-09-2002 19-03-2007 Congo
+/topk-AgeRanges 1 USSR Marburg-virus 07-01-2017 11-07-2018
+/numPatientAdmissions Angioedema 08-08-2011 05-06-2017
+/searchPatientRecord 2892
+/searchPatientRecord 5433
+/numPatientAdmissions H1N1 16-04-2008 02-04-2017 Congo
+/numPatientDischarges H1N1 31-03-2012 08-02-2018 Spain
+/diseaseFrequency Marburg-virus 17-05-2010 17-10-2015
+/diseaseFrequency Weismann-Netter-Syndrome 11-05-2010 21-03-2017 Spain
+/numPatientDischarges Angioedema 03-07-2013 25-09-2019
+/numPatientDischarges H1N1 01-06-2015 28-11-2017 Sweden
+/numPatientAdmissions Laryngomalacia 25-06-2016 03-02-2017
+/numPatientAdmissions Angioedema 06-05-2010 09-11-2016 USSR
+/diseaseFrequency Beeturia 24-04-2019 29-11-2019
+/topk-AgeRanges 1 Greece Syngnathia 19-08-2007 12-08-2016
+/searchPatientRecord 4621
+/numPatientDischarges Alopecia 18-12-2007 07-08-2015
+/topk-AgeRanges 2 Italy Hantavirus 16-06-2004 06-03-2014
+/searchPatientRecord 1088
+/diseaseFrequency Beeturia 10-08-2004 19-06-2013
+/searchPatientRecord 1935
+/numPatientDischarges Weismann-Netter-Syndrome 02-09-2013 23-11-2014
+/numPatientAdmissions Weismann-Netter-Syndrome 20-02-2017 15-10-2018
+/numPatientAdmissions Beeturia 09-01-2011 05-08-2019
+/searchPatientRecord 5303
+/numPatientAdmissions Marburg-virus 08-11-2006 27-02-2013 Sweden
+/numPatientAdmissions H5N1 08-07-2010 15-03-2011
+/diseaseFrequency Weismann-Netter-Syndrome 29-02-2012 12-12-2019
+/diseaseFrequency Hantavirus 27-09-2007 26-01-2011 Sweden
+/numPatientAdmissions Marburg-virus 01-07-2007 21-01-2008
+/topk-AgeRanges 1 USA HIV 09-03-2010 18-08-2015
+/numPatientAdmissions H5N1 02-08-2011 27-06-2015
+/numPatientDischarges HIV 03-06-2007 12-04-2015 Congo
+/diseaseFrequency HIV 27-01-2015 01-10-2019 Greece
+/topk-AgeRanges 1 Italy H1N1 10-06-2001 02-11-2002
+/topk-AgeRanges 1 Greece Alopecia 11-04-2013 10-08-2016
+/topk-AgeRanges 4 Greece Hantavirus 29-11-2004 21-12-2014
+/topk-AgeRanges 2 Spain Angioedema 10-01-2009 03-04-2013
+/numPatientDischarges Weismann-Netter-Syndrome 21-09-2000 11-04-2009 Australia
+/topk-AgeRanges 5 Australia H1N1 31-10-2014 23-12-2016
+/topk-AgeRanges 2 Australia Weismann-Netter-Syndrome 01-01-2004 28-10-2008
+/topk-AgeRanges 5 Australia Weismann-Netter-Syndrome 12-05-2008 20-06-2009
+/numPatientAdmissions Hantavirus 17-03-2008 31-05-2013
+/topk-AgeRanges 2 China H1N1 05-06-2000 10-11-2013
+/numPatientAdmissions H1N1 01-01-2012 24-07-2016
+/numPatientDischarges Alopecia 13-10-2007 07-05-2019 Spain
+/diseaseFrequency Syngnathia 21-01-2005 18-08-2019 Sweden
+/numPatientAdmissions H1N1 24-08-2012 03-08-2013
+/searchPatientRecord 2629
+/numPatientAdmissions Laryngomalacia 25-04-2019 10-10-2019 Spain
+/searchPatientRecord 2693
+/searchPatientRecord 4578
+/searchPatientRecord 5845
+/numPatientDischarges H5N1 14-06-2018 25-05-2019 Sweden
+/numPatientAdmissions Ebola 24-09-2011 21-04-2019
+/searchPatientRecord 5693
+/topk-AgeRanges 3 Bangladesh HIV 11-04-2013 05-06-2016
+/diseaseFrequency H1N1 16-07-2016 03-09-2016
+/topk-AgeRanges 5 Bangladesh H5N1 19-09-2000 06-05-2011
+/numPatientAdmissions HIV 10-01-2000 02-01-2009
+/searchPatientRecord 374
+/numPatientAdmissions Alopecia 20-01-2013 28-04-2015 USA
+/diseaseFrequency Weismann-Netter-Syndrome 10-11-2004 14-12-2013 USSR
+/searchPatientRecord 1490
+/topk-AgeRanges 5 Italy Marburg-virus 14-07-2011 05-11-2011
+/numPatientAdmissions H1N1 27-07-2018 11-09-2019 USSR
+/searchPatientRecord 5816
+/numPatientDischarges H1N1 28-01-2003 14-02-2019 China
+/numPatientAdmissions Angioedema 17-07-2017 20-02-2018
+/diseaseFrequency Laryngomalacia 28-07-2000 09-12-2018
+/diseaseFrequency Marburg-virus 15-10-2004 31-03-2015
+/searchPatientRecord 3264
+/numPatientDischarges HIV 23-06-2008 10-02-2018 Bangladesh
+/diseaseFrequency Ebola 16-03-2000 22-04-2007 Bangladesh
+/searchPatientRecord 386
+/numPatientAdmissions Laryngomalacia 02-10-2007 22-07-2012
+/numPatientDischarges Marburg-virus 13-10-2004 15-03-2012 Italy
+/searchPatientRecord 139
+/topk-AgeRanges 5 Italy Syngnathia 29-03-2013 01-02-2019
+/numPatientDischarges HIV 25-07-2015 18-01-2016
+/numPatientAdmissions H5N1 28-08-2019 14-10-2019 Italy
+/diseaseFrequency Alopecia 04-04-2002 06-07-2016 Greece
+/topk-AgeRanges 4 China Beeturia 09-03-2008 17-10-2019
+/diseaseFrequency Hantavirus 26-08-2010 04-12-2017
+/diseaseFrequency Hantavirus 11-09-2010 21-07-2012
+/diseaseFrequency Weismann-Netter-Syndrome 11-03-2010 13-05-2015
+/topk-AgeRanges 5 Congo Alopecia 14-07-2001 18-09-2015
+/numPatientDischarges HIV 28-05-2009 24-07-2018 Spain
+/searchPatientRecord 4363
+/topk-AgeRanges 3 Sweden Beeturia 29-08-2008 04-11-2015
+/topk-AgeRanges 1 China Angioedema 23-12-2018 07-04-2019
+/searchPatientRecord 1094
+/searchPatientRecord 129
+/searchPatientRecord 4970
+/numPatientAdmissions Hantavirus 12-06-2011 01-06-2017
+/numPatientDischarges Marburg-virus 10-12-2018 11-02-2019
+/searchPatientRecord 3965
+/diseaseFrequency Alopecia 05-02-2013 09-09-2015 Sweden
+/searchPatientRecord 1186
+/numPatientDischarges Beeturia 30-01-2011 14-02-2018
+/topk-AgeRanges 5 Sweden Alopecia 25-11-2011 17-09-2017
+/numPatientDischarges Weismann-Netter-Syndrome 02-08-2007 30-07-2013 Bangladesh
+/diseaseFrequency Alopecia 16-01-2004 25-02-2008 Sweden
+/numPatientDischarges Laryngomalacia 08-06-2007 11-11-2014
+/numPatientDischarges Weismann-Netter-Syndrome 23-03-2002 02-03-2006
