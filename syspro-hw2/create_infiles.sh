@@ -86,7 +86,6 @@ read_countries() # Reads the countries from file in arg #2
   while read line; do
     COUNTRIES+=($line)
   done < $COUNTRY_FILE
-  CTRY_NUM=${#COUNTRIES[@]}
 }
 
 create_dmy() # Generate a random DD or MM or YYYY
