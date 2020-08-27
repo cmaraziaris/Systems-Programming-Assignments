@@ -5,7 +5,7 @@ Assignments for the Course "K24: Systems Programming", Spring 2020
 HW1 is centered around the **data structures** used.
 
 ### HW2
-HW2 is centered around InterProcess Communication, using mostly FIFOs and Signals. A bash script generating sample data is also provided.
+HW2 is centered around InterProcess Communication, using mostly pipes and signals. A bash script generating sample data is also provided.
 
 ### HW3 
 HW3 is centered around Network Commutication, following the Client-Server model through TCP, using threads.
