@@ -11,6 +11,7 @@ HW2 is centered around InterProcess Communication, using mostly **pipes** and **
 HW3 is centered around Network Commutication, following the Client-Server model through TCP, using threads.
 The application-layer protocol makes use of verification messages to preserve data integrity across processes.
 
+### Misc
 A detailed description in greek is provided in each directory (PDF).
 
 Each assignment got a score of 100/100 marks.
